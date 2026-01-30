@@ -5,6 +5,10 @@ import br.com.produto.dao.ProdutoDAO;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author VAGNERMELOPIRES
+ */
 public class Main2 {
     public static void main(String[] args) {
 
@@ -50,4 +54,5 @@ public class Main2 {
         scanner.close();
     }
 }
+
 
