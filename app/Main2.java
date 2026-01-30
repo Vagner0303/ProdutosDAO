@@ -30,7 +30,6 @@ public class Main2 {
 
             Produto produto = new Produto();
 
-            // id não precisa setar se for auto incremento no banco
             produto.setNome(nome);
             produto.setSetor(setor);
             produto.setPreco(preco);
@@ -51,3 +50,4 @@ public class Main2 {
         scanner.close();
     }
 }
+
